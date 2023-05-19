@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+div{
+    width:300px;
+    border:15px solid blue;
+    background:lightblue;
+    padding: 50px;
+    margin: 20px;<!--margin auto means text will be in center from left and right-->
+    color:blue;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 900;
+    float: right;<!--it means text will be in rightmost side-->
+}
